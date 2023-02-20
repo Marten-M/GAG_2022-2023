@@ -276,4 +276,4 @@ class Catalyst(AlchemicalElement):
 
     def __repr__(self) -> str:
         """Class representation."""
-        return f"<C: {self.name} ({self.uses})>"
+        return f"<C: {self.name} ({self.uses})>" # Test comment
